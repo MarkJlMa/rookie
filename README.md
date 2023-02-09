@@ -1,0 +1,2 @@
+# rookie
+learn and practice
